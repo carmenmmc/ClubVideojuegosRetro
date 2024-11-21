@@ -7,40 +7,61 @@ Super Mario Bros es un videojuego de plataformas desarrollado y publicado en 198
 ### Características
 
 #### Diseñadores
-_Shigeru Miyamoto, Takashi Tezuka_
+- Shigeru Miyamoto, Takashi Tezuka
 #### Desarrolladores
-_Nintendo_
+- Nintendo
 #### Plataformas
-_Nintendo Switch, Nintendo Entertainment System_
+- Nintendo Switch, Nintendo Entertainment System
 #### Fecha de estreno inicial
-_13 de septiembre de 1985_
+- 13 de septiembre de 1985
 #### Serie
-_Super Mario, Super Mario Bros_
+- Super Mario, Super Mario Bros
 #### Géneros
-_Videojuego de plataformas, Videojuego de aventura_
+- Videojuego de plataformas, Videojuego de aventura
 #### Distribuidores
-_Nintendo, Nintendo of America, Nintendo of Europe GmbH_
+- Nintendo, Nintendo of America, Nintendo of Europe GmbH
 
 ## Street Fighter II 
 
-Super Mario Bros es un videojuego de plataformas desarrollado y publicado en 1985 por Nintendo para la Famicom en Japón y para la Nintendo Entertainment System (NES) en Norteamérica. Es el sucesor del juego arcade de 1983 Mario Bros. El primero de la serie Super Mario. Tras un lanzamiento de prueba para la NES en EE. UU., se adaptó a los salones recreativos internacionales en la consola Nintendo Vs. System a principios de 1986. La versión para NES salió a la venta en Norteamérica ese mismo año y en las regiones PAL en 1987.
+Street Fighter II: The World Warrior (ストリートファイターⅡ -The World Warrior-?) es un videojuego de lucha originalmente lanzado para la placa arcade CP System en 1991. Es la segunda entrega de la saga Street Fighter y la secuela del original Street Fighter publicado en 1987. Este fue el primer juego de la serie Street Fighter en alcanzar fama mundial e iniciador del fenómeno de los videojuegos en el género de la lucha. Fue desarrollado por la empresa Capcom. En esta saga se introdujeron 8 personajes a elegir, 4 jefes finales y un final diferente por cada personaje. A su vez, poseía un control que, al igual que su antecesor, utiliza combinaciones de la palanca y 6 botones para ejecutar ataques especiales durante la pelea, como el lanzamiento de bolas de fuego (abajo, diagonal-abajo, adelante)
 
 ![](https://image.api.playstation.com/vulcan/ap/rnd/202103/1008/cqljMczkx4qZPB5Vhnr7rKov.png)
 
 ### Características
 
 #### Plataformas
-_Super Nintendo, Videojuego de arcade, Game Boy_
+- Super Nintendo, Videojuego de arcade, Game Boy
 #### Fecha de estreno inicial
-_Febrero de 1991_
+- Febrero de 1991
 #### Género
-_Videojuego de lucha_
+- Videojuego de lucha
 #### Diseñadores
-_Akira Yasuda, Akira Nishitani_
+- Akira Yasuda, Akira Nishitani
 #### Desarrollador
-_Capcom_
+- Capcom
 #### Distribuidores
-_Nintendo, Capcom, Capcom U.S.A., Inc., Tectoy, U.S. Gold, Hi Tech Expressions_
+- Nintendo, Capcom, Capcom U.S.A., Inc., Tectoy, U.S. Gold, Hi Tech Expressions
+
+## Sonic the Hedgehog
+
+Sonic the Hedgehoga​ es una serie de videojuegos y medios japonesa creada por Sega. La franquicia sigue a Sonic, un erizo azul antropomórfico que lucha contra el malvado Doctor Eggman, un científico loco. Los principales juegos de Sonic the Hedgehog son de plataformas desarrollados principalmente por Sonic Team; otros juegos, desarrollados por varios estudios, incluyen spin-offs en los géneros de carreras, peleas, fiestas y deportes. La franquicia también incorpora medios impresos, animaciones, largometrajes y productos.
+
+![](https://products.eneba.games/resized-products/oppnzU8kS1RyGu_13Y2SUeCr_7PxYBjrac1u3m1-bC0_350x200_3x-0.jpg)
+
+### Características
+
+#### Plataformas
+- Super Nintendo, Videojuego de arcade, Game Boy
+#### Fecha de estreno inicial
+- Febrero de 1991
+#### Género
+- Videojuego de lucha
+#### Diseñadores
+- Akira Yasuda, Akira Nishitani
+#### Desarrollador
+- Capcom
+#### Distribuidores
+- Nintendo, Capcom, Capcom U.S.A., Inc., Tectoy, U.S. Gold, Hi Tech Expressions
 
 
 ## Inventario Actual
